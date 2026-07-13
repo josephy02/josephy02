@@ -1,18 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Joseph%20Yared&animation=fadeIn&desc=AI%20Engineer&descAlignY=60&descAlign=57&section=header&reversal=true)
 
-👋 Hi, I'm [Joseph Yared](https://www.josephyared.com/), an AI Engineer at **T-Mobile** on the **IntentCX** team, where I build conversational agents and deploy multimodal models at scale — the goal being to make every customer interaction more natural, personal, and efficient. I graduated from the **University of Washington** with degrees in **Physics** and **Informatics** 🥳
+👋 Hi, I'm [Joseph Yared](https://www.josephyared.com/), an AI Engineer at **T-Mobile** on the **IntentCX** team, where I build conversational agents and deploy multimodal models at scale to make every customer interaction more natural, personal, and efficient. I graduated from the **University of Washington** with degrees in **Physics** and **Informatics** 🥳
 
 - 🔭 Currently working on: LLM agents, RAG systems, and production-scale AI
-- 🌲 Outside of work: hiking, the outdoors, and meeting new people — feel free to reach out and connect
+- 🌲 Outside of work: hiking, the outdoors, and meeting new people. Feel free to reach out and connect
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/josephyared) · [josephyared0@gmail.com](mailto:josephyared0@gmail.com)
 - 🌐 Portfolio: [josephyared.com](https://www.josephyared.com/)
-
-<details>
-<summary><b>📈 My GitHub Stats</b></summary>
-
-<img src="https://github-readme-stats.vercel.app/api?username=josephy02&show_icons=true&theme=radical&count_private=true&hide=issues" alt="josephy02" />
-
-</details>
 
 **🛠 Tech Stack**
 
