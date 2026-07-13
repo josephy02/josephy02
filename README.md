@@ -3,7 +3,7 @@
 👋 Hi, I'm [Joseph Yared](https://www.josephyared.com/), an AI Engineer at **T-Mobile** on the **IntentCX** team, where I build conversational agents and deploy multimodal models at scale to make every customer interaction more natural, personal, and efficient. I graduated from the **University of Washington** with degrees in **Physics** and **Informatics** 🥳
 
 - 🔭 Currently working on: LLM agents, RAG systems, and production-scale AI
-- 🌲 Outside of work: hiking, the outdoors, and meeting new people. Feel free to reach out and connect
+- 🌲 Outside of work: hiking, cooking, and meeting new people! Feel free to reach out and connect
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/josephyared) · [josephyared0@gmail.com](mailto:josephyared0@gmail.com)
 - 🌐 Portfolio: [josephyared.com](https://www.josephyared.com/)
 
