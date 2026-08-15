@@ -5,7 +5,7 @@
 - 🔭 Currently working on: LLM agents, RAG systems, and production-scale AI
 - 🌲 Outside of work: hiking, cooking, and meeting new people! Feel free to reach out and connect
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/josephyared) · [josephyared0@gmail.com](mailto:josephyared0@gmail.com)
-- 🌐 Portfolio: [josephyared.com](https://www.josephyared.com/)
+- 🌐 Personal site: [josephyared.com](https://www.josephyared.com/)
 
 **🛠 Tech Stack**
 
