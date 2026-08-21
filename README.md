@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Joseph%20Yared&animation=fadeIn&desc=AI%20Engineer&descAlignY=60&descAlign=57&section=header&reversal=true)
 
-👋 Hi, I'm [Joseph Yared](https://www.josephyared.com/), an AI Engineer at **T-Mobile** on the **IntentCX** team, where I build conversational agents and deploy multimodal models at scale to make every customer interaction more natural, personal, and efficient. I graduated from the **University of Washington** with degrees in **Physics** and **Informatics** 🥳
+👋 Hi, I'm [Joseph Yared](https://www.josephyared.com/), an AI Engineer at **T-Mobile** on the **IntentCX** team, where I build conversational agents and deploy multimodal systems at scale to make every customer interaction more natural, personal, and efficient. I graduated from the **University of Washington** with degrees in **Physics** and **Informatics** 🥳
 
 - 🔭 Currently working on: LLM agents, RAG systems, and production-scale AI
 - 🌲 Outside of work: hiking, cooking, and meeting new people! Feel free to reach out and connect
